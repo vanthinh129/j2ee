@@ -1,6 +1,10 @@
 # j2ee
 Chuyên đề J2EE - Đồ án Shop bán hàng online
 
+Giáo viên hướng dẫn: Nguyễn Trác Thức
+
+Thành viên: Nguyễn Văn Thịnh - 10520138, Phạm Hoàng Thiện - 13520818
+
 Hướng dẫn cài đặt
 
 	1/ Cài đặt Eclipse for EE: http://www.eclipse.org/downloads/packages/eclipse-ide-java-ee-developers/keplersr2
